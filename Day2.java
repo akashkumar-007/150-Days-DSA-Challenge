@@ -1,5 +1,7 @@
 
 // Leetcode Problem: 169. Majority Element
+import java.util.HashMap;
+import java.util.Map;
 class Solution {
     public int majorityElement(int[] nums) {
         // First Approach 
