@@ -1,4 +1,5 @@
 //leetcode 68. Text Justification
+import java.util.*;
 class Solution {
     int MAX_WIDTH;
     
