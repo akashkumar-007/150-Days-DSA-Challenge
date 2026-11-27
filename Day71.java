@@ -1,5 +1,5 @@
 /*
-  Leetcode 104.
+  Leetcode 104.Maximum Depth of Binary Tree
   class Solution {
     public int maxDepth(TreeNode root) {
         if(root == null){
